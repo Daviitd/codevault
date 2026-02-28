@@ -95,6 +95,6 @@ Código con notas ![Código con notas](commit.png)
 
 ---
 
-## 9. Reflexión Personal
+## 9. Experiencia de Desarrollo
 
-Durante el desarrollo aprendí a integrar autenticación con Google, organizar un proyecto con frontend y backend y documentar profesionalmente utilizando Markdown.
+Durante el desarrollo del proyecto se logró integrar autenticación con Google, estructurar adecuadamente una arquitectura con frontend y backend, y aplicar buenas prácticas de documentación utilizando Markdown. Este proceso permitió fortalecer habilidades en organización de proyectos, control de versiones con Git y despliegue de aplicaciones web.
