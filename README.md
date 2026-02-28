@@ -61,10 +61,6 @@ Está pensado para estudiantes y desarrolladores que necesitan guardar y organiz
 
 ## 6. Capturas de Pantalla
 
-Agrega aquí mínimo 3 imágenes del proyecto funcionando.
-
-Ejemplo:
-
 ![Login](login.png)
 ![Dashboard](dashboard.png)
 ![Código con notas](commit.png)
