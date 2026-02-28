@@ -5,7 +5,7 @@
 - **Nombre del proyecto:** CodeVault  
 - **Nombre del estudiante:** Daniel David Gomez Riobo 
 - **Fecha:** Febrero 2026
-- [**Web:**](https://codevault-dev.manus.space/)
+- [**Web**](https://codevault-dev.manus.space/)
 
 ---
 
