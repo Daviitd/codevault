@@ -62,8 +62,8 @@ Está pensado para estudiantes y desarrolladores que necesitan guardar y organiz
 ## 6. Capturas de Pantalla
 
 Login ![Login](login.png)
-![Dashboard](dashboard.png) Dashboard
-![Código con notas](commit.png) Código con notas
+Dashboard ![Dashboard](dashboard.png) 
+Código con notas ![Código con notas](commit.png)
 
 ---
 
